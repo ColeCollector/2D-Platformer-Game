@@ -1,0 +1,28 @@
+{
+    "entities": [
+        {
+            "x": 51,
+            "y": 50,
+            "health": 3,
+            "category": "PLAYER"
+        },
+        {
+            "x": 49,
+            "y": 50,
+            "id": 1,
+            "category": "ENEMY"
+        },
+        {
+            "x": 50,
+            "y": 51,
+            "id": 2,
+            "category": "ENEMY"
+        },
+        {
+            "x": 52,
+            "y": 50,
+            "category": "WALL"
+        }
+    ],
+    "name": "General Map"
+}

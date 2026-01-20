@@ -1,0 +1,22 @@
+{
+    "entities": [
+        {
+            "x": 50,
+            "y": 51,
+            "category": "WALL"
+        },
+        {
+            "x": 40,
+            "y": 50,
+            "id": 0,
+            "category": "ENEMY"
+        },
+        {
+            "x": 30,
+            "y": 35,
+            "health": 2,
+            "category": "PLAYER"
+        }
+    ],
+    "name": "Map Infinity"
+}

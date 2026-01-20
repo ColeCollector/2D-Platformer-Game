@@ -1,0 +1,173 @@
+{
+    "entities": [
+        {
+            "x": 10,
+            "y": 9,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 9,
+            "y": 7,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 11,
+            "y": 9,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 11,
+            "y": 10,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 12,
+            "y": 10,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 13,
+            "y": 10,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 12,
+            "y": 11,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 11,
+            "y": 7,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 12,
+            "y": 8,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 12,
+            "y": 7,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 12,
+            "y": 5,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 11,
+            "y": 5,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 12,
+            "y": 6,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 10,
+            "y": 5,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 14,
+            "y": 11,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 15,
+            "y": 9,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 15,
+            "y": 10,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 15,
+            "y": 11,
+            "id": 1,
+            "category": "WALL"
+        },
+        {
+            "x": 10,
+            "y": 7,
+            "id": 1,
+            "category": "ENEMY"
+        },
+        {
+            "x": 14,
+            "y": 9,
+            "id": 1,
+            "category": "ENEMY"
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "health": 12,
+            "category": "PLAYER"
+        }
+    ],
+    "name": "Current Map"
+}
