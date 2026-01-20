@@ -117,7 +117,7 @@ public class GamePanel extends JPanel {
     // effects:  draws "game over" and replay instructions onto g
     private void gameOver(Graphics g) {
         Color saved = g.getColor();
-        g.setColor(new Color(0, 0, 0));
+        g.setColor(new Color(255, 255, 255));
         g.setFont(new Font("Arial", 20, 20));
         FontMetrics fm = g.getFontMetrics();
         if (game.getEnemies().size() == 0) {
