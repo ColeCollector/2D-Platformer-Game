@@ -1,6 +1,6 @@
-# My Platformer Game
+# My Puzzle Game
 
-The application will be a **2d platformer game** where there is a player who can move around and has to avoid enemies. If the player collides with the enemy it will take damage. If the players health reaches 0 the game will reset. Anyone can play this game though I think teenagers would get the most fun out of it. This project is of interest to me because it's something I haven't made before and sounds like something that fits well within the requirements of this project.
+The application will be a **2d puzzle game** where there is a player who can move around and has to avoid enemies. If the player collides with the enemy it will take damage. If the players health reaches 0 the game will reset. Anyone can play this game though I think teenagers would get the most fun out of it. This project is of interest to me because it's something I haven't made before and sounds like something that fits well within the requirements of this project.
 
 ## User Stories:
 - As a user, I want to be able to move around the map
